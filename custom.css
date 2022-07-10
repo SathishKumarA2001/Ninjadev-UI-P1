@@ -41,3 +41,8 @@ footer > .NMI{
     text-align: center !important;
     font-size: large;
 }
+
+footer{
+    width:100%;
+    background-color: antiquewhite;
+}
