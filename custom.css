@@ -1,0 +1,26 @@
+.nav-items li{
+    margin-right: 35px;
+}
+
+header {
+    background-color:  rgba(255,255,255,0) !important;
+}
+
+main > img{
+    width: 100%;
+    height:700px;
+}
+
+.why_us{
+    margin-top:20px;
+    text-align: center;
+}
+
+.icon{
+    text-align: center !important;
+}
+
+.what_we_help {
+    margin-top:40px;
+    text-align: center;
+}
