@@ -27,3 +27,17 @@ main > img{
 .card-body{
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
+.how_we_work{
+    height: 500px;
+    width: 200px;
+    background-color: aliceblue;
+}
+main > .HWW > img{
+    width: 100%;
+    height:500px;
+}
+
+footer > .NMI{
+    text-align: center !important;
+    font-size: large;
+}
